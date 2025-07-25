@@ -1,0 +1,125 @@
+html{
+    font-size: 62.5%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    max-width: 1440vw ;
+    height: auto;
+    background-color: hsl(330, 100%, 98%);
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: hsl(30, 10%, 34%);
+    font-family: 'outfit', sans-serif;
+    
+}
+
+.container{
+   width: 60%;
+   padding: 3.2rem;
+   margin-top: 8%;
+   margin-bottom: 8%;
+   
+   background-color: hsl(0, 0%, 100%);
+   border-radius:1.6rem ;
+   justify-self: center;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    /* margin: 2rem; */
+    border-radius: 1rem;
+    
+
+}
+
+h1{
+    font-size: 3.2rem;
+    font-family: 'Young Serif' , serif;
+    color:  hsl(24, 5%, 18%);
+    margin-bottom: 2rem ;
+    margin-top: 2rem ;
+    
+}
+
+h2{
+    font-size: 2.4rem;
+    font-family: 'Young Serif' , serif;
+    font-weight: 600;
+    margin-bottom: 1.2rem;
+    margin-top: 2rem;
+    color: hsl(14, 45%, 36%);
+    
+}
+
+h3{
+    margin-bottom: 0.8rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: hsl(332, 51%, 32%);
+   
+}
+
+section{
+    background: hsl(330, 100%, 98%);
+    padding: 1.6rem;
+    border-radius: 0.8rem;
+    margin-top: 2rem ;
+    margin-bottom: 2rem;
+    
+}
+
+.PT{
+    margin-left: 2.6rem;
+}
+
+/* use this to arrange the divs */
+ul, ol{
+    margin-left: 2.6rem;
+}
+
+.div{
+    margin-top: 2.4rem;
+}
+
+b{
+    font-weight: 600;
+}
+
+.NT{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.2rem;
+    margin-left: 2.6rem;
+
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+
+.padding{
+    padding-right: 36%;
+    color: hsl(14, 45%, 36%);
+}
+
+.line{
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+    padding-bottom: 2rem;
+}
+
+ol li {
+    margin-bottom: 0.8rem;
+}
+
+ @media screen and (max-width: 600px) {
+  /* CSS rules to apply when the screen width is 600px or less */
+  h1{
+        font-size: 2.4rem;
+    }
+}
