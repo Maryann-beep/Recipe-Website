@@ -12,8 +12,7 @@ Build out a responsive recipe page that includes ingredients, instructions, prep
 
 ### 🔗 Links
 
-- Solution URL: [View on GitHub](https://github.com/Maryann-beep/Recipe-page)
-- Live Site URL: [Live demo on GitHub Pages](https://maryann-beep.github.io/Recipe-page/)
+- Live Site URL: [Click here to view site!]( https://maryann-beep.github.io/Recipe-Website/)
 
 ---
 
